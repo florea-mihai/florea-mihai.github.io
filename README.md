@@ -1,4 +1,4 @@
-# Mihai-Alexandru Florea
+# Full-Stack Digital Media Specialist with Expertise in Web Development, Marketing, and VR/AR
 
 **LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)
 
