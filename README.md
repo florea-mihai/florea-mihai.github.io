@@ -1,17 +1,15 @@
-# Full-Stack Digital Media Specialist with Expertise in Web Development, Marketing, and VR/AR
+# Full-Stack Digital Media Specialist
 
-**LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)
+**Email:** [mihaiaf@yahoo.com](mailto:mihaiaf@yahoo.com)  
+**LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)  
 
 ---
 
-## About Me
+## Profile
 
-I am a versatile and results-driven professional with expertise in Front-End Web Development, Digital Marketing, and Photo & Video Editing, complemented by a passion for VR/AR technologies. My focus is on leveraging technical and creative skills to deliver innovative digital solutions and impactful marketing strategies.
+Dynamic and results-oriented Full-Stack Digital Media Specialist with a strong foundation in Web Development, Digital Marketing, and Multimedia Production, complemented by advanced skills in VR/AR technologies. Adept at crafting innovative digital solutions, optimizing web experiences, and creating compelling visual content to drive brand success and user engagement.
 
-- **Marketing Expertise:** Crafting and executing data-driven marketing campaigns to enhance brand presence and engagement, with a strong focus on SEO, social media, and content strategy.
-- **Web Development:** Designing and optimizing user-centered digital experiences using modern web technologies, ensuring alignment with brand goals and seamless functionality across platforms.
-- **Visual Content Creation:** Producing and editing high-quality visual content using Adobe Photoshop, Adobe Premiere Pro, and Adobe After Effects to effectively communicate brand narratives.
-- **VR/AR Technologies:** Developing immersive VR and AR experiences to elevate user interaction and engagement.
+![Profile Image](path/to/your/profile-image.jpg)
 
 ---
 
@@ -20,25 +18,32 @@ I am a versatile and results-driven professional with expertise in Front-End Web
 ### Freelance Web Developer
 *Self-Employed*  
 09/2021 – Present  
-- Designed, developed, and maintained websites for various businesses, enhancing their online presence and functionality.
-- Collaborated with clients to understand their needs and delivered tailored solutions using WordPress, JavaScript, and CSS.
-- Improved user experience through responsive design and optimization for diverse devices and browsers.
-- Managed end-to-end project delivery, ensuring timely completion and client satisfaction.
+
+- Developed and maintained responsive websites for diverse clients, utilizing WordPress, JavaScript, and CSS to enhance online presence and functionality.
+- Collaborated with clients to deliver customized solutions, improving user experience and aligning with business objectives.
+- Managed full project lifecycles, ensuring timely delivery and high client satisfaction through effective communication and problem-solving.
+
+![Web Developer Image](path/to/your/web-developer-image.jpg)
 
 ### Virtual Reality Specialist & Multimedia Development Intern
-*Infor Elea Smart Business Academy, Torino, Italy*  
+*Infor Elea Smart Business Academy, Turin, Italy*  
 06/2024 – 08/2024  
-- Created and refined immersive VR worlds and 3D models, enhancing user engagement through advanced virtual experiences.
-- Contributed to multimedia production, including photo and video editing with Adobe Premiere Pro and Adobe After Effects.
-- Supported web development projects by integrating multimedia content into digital platforms.
+
+- Designed and developed immersive VR environments and 3D models to enhance user interaction and engagement.
+- Contributed to multimedia projects, including photo and video editing using Adobe Premiere Pro and Adobe After Effects.
+- Integrated multimedia content into web platforms, supporting overall project development and delivery.
+
+![VR Specialist Image](path/to/your/vr-specialist-image.jpg)
 
 ### Freelance Data Annotator and Digital Transcription Specialist
 *Remotask*  
 09/2019 – 06/2021  
-- Performed detailed image annotation and object detection, accurately labeling entities for machine learning model training.
-- Conducted digital transcription of menus, converting physical and digital menus into structured formats for applications and databases.
-- Utilized various tools for efficient data processing, ensuring high-quality and consistent output.
-- Managed multiple projects concurrently, meeting strict deadlines and maintaining high attention to detail.
+
+- Conducted detailed image annotation and object detection for machine learning applications, ensuring precise data labeling.
+- Performed digital transcription of menus, converting them into structured formats for applications and databases.
+- Managed multiple data processing projects simultaneously, maintaining high accuracy and adhering to deadlines.
+
+![Data Annotator Image](path/to/your/data-annotator-image.jpg)
 
 ---
 
@@ -47,13 +52,19 @@ I am a versatile and results-driven professional with expertise in Front-End Web
 ### Mastery of Advanced Digital Media
 *Infor Elea Smart Business Academy, Torino, Italy*  
 06/2024 – 08/2024  
-- Specialized in VR World Building, 3D Modeling, Media Production, Photo/Video Editing, and Web Development.  
+
+- Focused on VR World Building, 3D Modeling, Media Production, Photo/Video Editing, and Web Development.  
 - [Infor Elea Academy Website](https://inforelea.academy)
+
+![Education Image](path/to/your/education-image.jpg)
 
 ### High School Diploma
 *Liceul "Regina Maria", Dorohoi, Romania*  
 2017 – 2021  
+
 - [Liceul "Regina Maria" Website](https://lrmd.ro/)
+
+![High School Image](path/to/your/high-school-image.jpg)
 
 ---
 
@@ -64,53 +75,62 @@ I am a versatile and results-driven professional with expertise in Front-End Web
 - **Tools:** Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Blender
 - **VR/AR Technologies:** Unity, Unreal Engine
 
+![Technical Skills Image](path/to/your/technical-skills-image.jpg)
+
 ---
 
-## Volunteering Experience
+## Volunteer Experience
 
 ### Marketing Coordinator
 *Maratonul Nordului Trail*  
 08/2022  
-- Led the sales team, managed sponsor relationships, and executed marketing strategies to achieve campaign goals.
+
+- Directed the marketing team, managed sponsor relations, and implemented strategies to achieve campaign objectives.
+
+![Marketing Coordinator Image](path/to/your/marketing-coordinator-image.jpg)
 
 ### Development Volunteer
 *Maratonul Nordului MTB*  
 08/2020  
-- Contributed to community development projects, collaborated with team members, and applied problem-solving skills.
+
+- Supported community development initiatives, collaborated effectively with team members, and utilized problem-solving skills.
+
+![Development Volunteer Image](path/to/your/development-volunteer-image.jpg)
 
 ---
 
 ## Projects
 
-### Innovative Web Experience for Local Businesses
-- Designed and developed interactive websites using custom WordPress themes and plugins, enhancing the digital presence of local businesses.
+### Local Business Web Revamp
+- Designed and implemented custom WordPress themes and plugins to enhance the digital presence of local businesses, improving user engagement and functionality.
 
-### AR Application for Educational Content
-- Created an augmented reality application to deliver interactive educational experiences using Unity and ARKit.
+![Local Business Web Revamp Image](path/to/your/local-business-web-revamp-image.jpg)
+
+### Educational AR Application
+- Developed an augmented reality app using Unity and ARKit to create interactive educational experiences, enhancing learning through innovative technology.
+
+![Educational AR Application Image](path/to/your/educational-ar-application-image.jpg)
+
+---
+
+## Interests
+
+- **Finance & Cryptocurrency:** Follow market trends and investment opportunities, exploring new financial strategies.
+- **Calisthenics:** Engage in bodyweight training focusing on strength, flexibility, and endurance.
+- **Philosophy:** Study philosophical theories and ethical debates, exploring classical and modern works.
+- **Scientific Literature:** Read scientific research to stay informed about the latest advancements and breakthroughs.
+- **Biohacking:** Investigate methods to optimize physical and mental performance through diet, supplements, and lifestyle changes.
+- **Technology:** Explore emerging technologies and innovations, staying updated on new tech trends and gadgets.
+- **Cubing:** Solve the Rubik's Cube, applying advanced problem-solving skills and algorithmic techniques.
+
+![Interests Image](path/to/your/interests-image.jpg)
 
 ---
 
-## Hobbies and Interests
+## Driving License
 
-### Finance & Cryptocurrency
-- Actively follow market trends and investment opportunities in finance and cryptocurrency. Continuously explore new strategies for financial growth.
+- AM  
+- B1  
+- B
 
-### Calisthenics
-- Passionate about bodyweight training and fitness, focusing on strength, flexibility, and endurance through calisthenics exercises.
-
-### Philosophy
-- Enthusiast of philosophical theories and ethical debates. Regularly explore classical and contemporary philosophical works.
-
-### Scientific Literature
-- Avid reader of scientific literature across various disciplines, staying informed about the latest research developments and breakthroughs.
-
-### Biohacking
-- Explore techniques to optimize physical and mental performance through diet, supplements, and lifestyle changes.
-
-### Technology
-- Enthusiast of emerging technologies and innovations. Actively explore new tech trends, gadgets, and advancements.
-
-### Cubing
-- Expert in solving the Rubik's Cube, demonstrating advanced problem-solving skills and strategic thinking. Knowledgeable in algorithmic techniques.
-
----
+![Driving License Image](path/to/your/driving-license-image.jpg)
