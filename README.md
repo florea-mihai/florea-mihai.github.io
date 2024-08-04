@@ -9,11 +9,12 @@
 
 ## About Me
 
-I am a versatile and results-driven Full-Stack Digital Media Specialist with expertise in Front-End Web Development, Digital Marketing, and Photo & Video Editing, complemented by a passion for VR/AR technologies. My focus is on leveraging technical and creative skills to deliver innovative digital solutions and impactful marketing strategies.
+I am a versatile and results-driven Full-Stack Digital Media Specialist with a rich blend of expertise in Front-End Web Development, Digital Marketing, and Photo & Video Editing, complemented by a passion for VR/AR technologies. I leverage technical and creative skills to deliver innovative digital solutions and impactful marketing strategies.
 
-- **Marketing Expertise:** Crafting and executing data-driven marketing campaigns to enhance brand presence and engagement, with a strong focus on SEO, social media, and content strategy.
-- **Web Development:** Designing and optimizing user-centered digital experiences using modern web technologies, ensuring alignment with brand goals and seamless functionality across platforms.
-- **Visual Content Creation:** Producing and editing high-quality visual content using Adobe Photoshop, Adobe Premiere Pro, and Adobe After Effects to effectively communicate brand narratives.
+### Core Competencies
+- **Marketing Expertise:** Crafting and executing data-driven campaigns to enhance brand presence with a strong focus on SEO, social media, and content strategy.
+- **Web Development:** Designing and optimizing user-centered digital experiences using modern web technologies, ensuring seamless functionality across platforms.
+- **Visual Content Creation:** Producing and editing high-quality visual content using Adobe Photoshop, Adobe Premiere Pro, and Adobe After Effects.
 - **VR/AR Technologies:** Developing immersive VR and AR experiences to elevate user interaction and engagement.
 
 ---
@@ -25,10 +26,10 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 09/2021 – Present  
 
 - **Key Responsibilities:**
-  - Designed, developed, and maintained websites for various businesses, enhancing their online presence and functionality.
-  - Collaborated with clients to understand their needs and delivered tailored solutions using **WordPress**, **JavaScript**, and **CSS**.
-  - Improved user experience through responsive design and optimization for diverse devices and browsers.
-  - Managed end-to-end project delivery, ensuring timely completion and client satisfaction.
+  - Designed, developed, and maintained websites, enhancing online presence and functionality for various businesses.
+  - Delivered tailored solutions using **WordPress**, **JavaScript**, and **CSS**.
+  - Improved user experience through responsive design and cross-device optimization.
+  - Managed project lifecycles with a focus on timely delivery and high client satisfaction.
 
 ![Web Developer Image](path/to/your/web-developer-image.jpg)
 
@@ -38,8 +39,8 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 
 - **Key Responsibilities:**
   - Created and refined immersive **VR worlds** and 3D models, enhancing user engagement through advanced virtual experiences.
-  - Contributed to multimedia production, including photo and video editing with **Adobe Premiere Pro** and **Adobe After Effects**.
-  - Supported web development projects by integrating multimedia content into digital platforms.
+  - Contributed to multimedia production with **Adobe Premiere Pro** and **Adobe After Effects**.
+  - Integrated multimedia content into web platforms, supporting project development.
 
 ![VR Specialist Image](path/to/your/vr-specialist-image.jpg)
 
@@ -48,10 +49,9 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 09/2019 – 06/2021  
 
 - **Key Responsibilities:**
-  - Performed detailed **image annotation** and object detection, accurately labeling entities for machine learning model training.
-  - Conducted digital transcription of menus, converting physical and digital menus into structured formats for applications and databases.
-  - Utilized various tools for efficient data processing, ensuring high-quality and consistent output.
-  - Managed multiple projects concurrently, meeting strict deadlines and maintaining high attention to detail.
+  - Conducted detailed **image annotation** and object detection for machine learning model training.
+  - Managed digital transcription projects, converting data into structured formats.
+  - Maintained high accuracy and attention to detail across multiple projects.
 
 ![Data Annotator Image](path/to/your/data-annotator-image.jpg)
 
@@ -63,7 +63,7 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 *Infor Elea Smart Business Academy, Torino, Italy*  
 06/2024 – 08/2024  
 
-- **Focus Areas:** VR World Building, 3D Modeling, Media Production, Photo/Video Editing, and Web Development.  
+- **Specialization:** VR World Building, 3D Modeling, Media Production, Photo/Video Editing, and Web Development.  
 - [Infor Elea Academy Website](https://inforelea.academy)
 
 ![Education Image](path/to/your/education-image.jpg)
@@ -95,8 +95,9 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 *Maratonul Nordului Trail*  
 08/2022  
 
-- **Key Responsibilities:**
-  - Led the marketing team, managed sponsor relationships, and executed marketing strategies to achieve campaign goals.
+- **Achievements:**
+  - Led the marketing team and executed successful marketing strategies.
+  - Managed sponsor relationships and enhanced campaign outcomes.
 
 ![Marketing Coordinator Image](path/to/your/marketing-coordinator-image.jpg)
 
@@ -104,8 +105,9 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 *Maratonul Nordului MTB*  
 08/2020  
 
-- **Key Responsibilities:**
-  - Contributed to community development projects, collaborated with team members, and applied problem-solving skills.
+- **Achievements:**
+  - Contributed to community development projects and collaborated effectively with team members.
+  - Applied problem-solving skills to support project success.
 
 ![Development Volunteer Image](path/to/your/development-volunteer-image.jpg)
 
@@ -135,13 +137,13 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 
 ## Hobbies and Interests
 
-- **Finance & Cryptocurrency:** Actively follow market trends and investment opportunities. Continuously explore new strategies for financial growth.
-- **Calisthenics:** Passionate about bodyweight training and fitness, focusing on strength, flexibility, and endurance.
-- **Philosophy:** Enthusiast of philosophical theories and ethical debates. Regularly explore classical and contemporary works.
-- **Scientific Literature:** Avid reader of scientific literature across various disciplines, staying informed about the latest research developments and breakthroughs.
-- **Biohacking:** Explore techniques to optimize physical and mental performance through diet, supplements, and lifestyle changes.
-- **Technology:** Enthusiast of emerging technologies and innovations. Actively explore new tech trends, gadgets, and advancements.
-- **Cubing:** Expert in solving the Rubik's Cube, demonstrating advanced problem-solving skills and strategic thinking.
+- **Finance & Cryptocurrency:** Following market trends and exploring new investment strategies for financial growth.
+- **Calisthenics:** Focusing on bodyweight training for strength, flexibility, and endurance.
+- **Philosophy:** Exploring philosophical theories and ethical debates through classical and contemporary works.
+- **Scientific Literature:** Staying informed about the latest research developments and breakthroughs.
+- **Biohacking:** Investigating methods to optimize physical and mental performance through diet, supplements, and lifestyle changes.
+- **Technology:** Keeping up with emerging tech trends, gadgets, and innovations.
+- **Cubing:** Solving the Rubik's Cube, applying advanced problem-solving skills and strategic thinking.
 
 ![Hobbies Image](path/to/your/hobbies-image.jpg)
 
@@ -159,6 +161,6 @@ I am a versatile and results-driven Full-Stack Digital Media Specialist with exp
 
 ## Get in Touch
 
-Interested in working together or learning more about my projects? Feel free to [contact me](mailto:mihaiaf@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mihai-alexandru-florea/).
+Interested in collaborating or learning more about my projects? Feel free to [contact me](mailto:mihaiaf@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mihai-alexandru-florea/). I look forward to connecting with you!
 
 Thank you for visiting my portfolio!
