@@ -161,7 +161,7 @@ I’m open to new opportunities, collaborations, or discussions. Feel free to co
 
 - **Email:** [mihaiaf@yahoo.com](mailto:mihaiaf@yahoo.com)
 - **LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)
-- **Phone:** (+40) 759110964
+- **Phone:** (+40) xyz
 
 Follow my work on [GitHub](https://github.com/your-github-profile) and connect with me on [Twitter](https://twitter.com/yourtwitterhandle).
 
