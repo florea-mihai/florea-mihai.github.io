@@ -1,11 +1,7 @@
 # Full-Stack Digital Media Specialist
 
-**Date of Birth:** 27/09/2002  
-**Citizenship:** Romanian  
-**Phone:** (+40) 759110964  
 **Email:** [mihaiaf@yahoo.com](mailto:mihaiaf@yahoo.com)  
 **LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)  
-**Address:** Str. Lt. Olinescu nr. 7, 715200, Dorohoi, Romania  
 
 ![Profile Image](path/to/your/profile-image.jpg)
 
