@@ -1,4 +1,4 @@
-# Full-Stack Digital Media and Interactive Experience Specialist
+# Full-Stack Digital Media and Interactive Development Specialist
 
 ![Profile Image](path/to/your/profile-image.jpg)
 
