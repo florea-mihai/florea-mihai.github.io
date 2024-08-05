@@ -1,4 +1,4 @@
-# Full-Stack Digital Media Specialist with Expertise in Web Development, Marketing, and VR/AR
+# Full-Stack Digital Media and Interactive Experience Specialist
 
 ![Profile Image](path/to/your/profile-image.jpg)
 
