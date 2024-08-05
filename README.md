@@ -183,9 +183,11 @@ For a comprehensive overview of my skills and experience, download my [resume](l
 
 ## Testimonials
 
-### "Mihai's expertise in web development and digital marketing transformed our online presence. His innovative solutions and attention to detail were pivotal in achieving our goals." – [Client Name]
+### "Mihai's expertise in web development and digital marketing transformed our online presence. His innovative solutions and attention to detail were pivotal in achieving our goals."
+ – [Client Name]
 
-### "The AR application Mihai developed exceeded our expectations. It has become a valuable tool in our educational toolkit, engaging students in new and exciting ways." – [Educational Institution/Teacher]
+### "The AR application Mihai developed exceeded our expectations. It has become a valuable tool in our educational toolkit, engaging students in new and exciting ways."
+ – [Educational Institution/Teacher]
 
 ![Testimonials Image](path/to/your/testimonials-image.jpg)
 
