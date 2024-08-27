@@ -166,7 +166,7 @@ Feel free to contact me through the following channels:
 - **Email:** [mihaiaf@yahoo.com](mailto:mihaiaf@yahoo.com)
 - **LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)
 - **Phone:** (+40) xyz
-- **GitHub:** [github.com/your-github-profile](https://github.com/your-github-profile)
+- **GitHub:** [github.com/florea-mihai](https://github.com/florea-mihai) https://github.com/florea-mihai
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ![Contact Image](path/to/your/contact-image.jpg)
