@@ -166,7 +166,7 @@ Feel free to contact me through the following channels:
 - **Email:** [mihaiaf@yahoo.com](mailto:mihaiaf@yahoo.com)
 - **LinkedIn:** [linkedin.com/in/mihai-alexandru-florea](https://www.linkedin.com/in/mihai-alexandru-florea/)
 - **Phone:** (+40) xyz
-- **GitHub:** [github.com/florea-mihai](https://github.com/florea-mihai) https://github.com/florea-mihai
+- **GitHub:** [github.com/florea-mihai](https://github.com/florea-mihai)
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ![Contact Image](path/to/your/contact-image.jpg)
@@ -198,7 +198,7 @@ For a comprehensive overview of my skills and experience, download my [resume](l
 Stay updated with my latest projects, insights, and industry trends:
 
 - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **GitHub:** [github.com/your-github-profile](https://github.com/your-github-profile)
+- **GitHub:** [github.com/florea-mihai](https://github.com/florea-mihai)
 
 ![Follow Me Image](path/to/your/follow-me-image.jpg)
 
