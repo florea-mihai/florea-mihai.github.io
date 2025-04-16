@@ -30,6 +30,13 @@ export const Contact = () => {
 
   const handleSubmit = async (event) => {
     event.preventDefault();
+
+    // Honeypot check: if filled, treat as spam and exit
+    if (formData.website) {
+      setIsSubmitting(false);
+      return;
+    }
+
     const newErrors = validate();
     if (Object.keys(newErrors).length > 0) {
       setErrors(newErrors);
@@ -92,6 +99,19 @@ export const Contact = () => {
             aria-label="Contact form"
             autoComplete="off"
           >
+            {/* Honeypot field for spam bots */}
+            <div style={{ display: "none" }}>
+              <label htmlFor="website">Website</label>
+              <input
+                type="text"
+                id="website"
+                name="website"
+                tabIndex={-1}
+                autoComplete="off"
+                value={formData.website || ""}
+                onChange={handleInputChange}
+              />
+            </div>
             {/* Name Field */}
             <div className="relative">
               <input
