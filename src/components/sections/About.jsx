@@ -24,7 +24,7 @@ const SkillList = ({ title, icon, skills }) => (
 
 // InfoCard: for education and work, with semantic markup
 const InfoCard = ({ title, icon, content }) => (
-  <div className="p-6 rounded-2xl border border-blue-900/30 bg-white/10 shadow-md hover:shadow-blue-900/30 hover:scale-[1.02] transition-all duration-300">
+  <div className="p-6 rounded-2xl border border-blue-900/30 bg-white/10 backdrop-blur-md shadow-md hover:shadow-blue-900/30 hover:scale-[1.02] transition-all duration-300">
     <div className="flex items-center gap-2 mb-3">
       {icon && (
         <span className="text-xl text-cyan-300" aria-hidden="true">{icon}</span>

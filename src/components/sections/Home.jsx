@@ -73,7 +73,21 @@ export const Home = () => {
               <span className="text-xs text-gray-400 mb-1 group-hover:text-blue-400 transition-colors">
                 Scroll Down
               </span>
-              <span className="w-6 h-6 border-b-2 border-r-2 border-blue-400 transform rotate-45 animate-bounce" />
+              {/* Improved chevron animation, dot removed */}
+              <svg
+                className="w-7 h-7 text-blue-400 animate-swipe-down"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M12 5v14m0 0l-5-5m5 5l5-5"
+                />
+              </svg>
             </a>
           </div>
         </div>

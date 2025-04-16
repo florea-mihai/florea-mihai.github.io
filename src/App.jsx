@@ -37,6 +37,41 @@ function App() {
           <Projects />
           <Contact />
         </main>
+        {/* Footer */}
+        <footer className="w-full bg-black/80 border-t border-blue-900/30 py-8 mt-8 text-center text-gray-400 text-sm z-20 relative">
+          <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-2 px-4">
+            <div>
+              © {new Date().getFullYear()} Mihai Florea. All rights reserved.
+            </div>
+            <div className="flex gap-4 justify-center">
+              <a
+                href="mailto:temporary@placeholder.com"
+                className="hover:text-blue-400 transition-colors"
+                aria-label="Email Mihai"
+              >
+                Email
+              </a>
+              <a
+                href="https://linkedin.com/in/mihai-alexandru-florea"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400 transition-colors"
+                aria-label="LinkedIn Mihai Alexandru Florea"
+              >
+                LinkedIn
+              </a>
+              <a
+                href="https://github.com/florea-mihai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400 transition-colors"
+                aria-label="GitHub Mihai Alexandru Florea"
+              >
+                GitHub
+              </a>
+            </div>
+          </div>
+        </footer>
       </div>
     </>
   );

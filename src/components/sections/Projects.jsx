@@ -78,9 +78,18 @@ export const Projects = () => {
   return (
     <section
       id="projects"
-      className="min-h-screen flex items-center justify-center py-20 bg-black"
+      className="min-h-screen flex items-center justify-center py-20 bg-black relative"
       aria-label="Projects section"
     >
+      {/* Animated background accent for consistency */}
+      <div
+        aria-hidden="true"
+        className="absolute inset-0 z-0 pointer-events-none"
+        style={{
+          background:
+            "radial-gradient(ellipse 120% 90% at 50% 20%, rgba(59,130,246,0.07), transparent 80%)",
+        }}
+      />
       <RevealOnScroll>
         <div className="max-w-5xl mx-auto px-4">
           {/* Headline */}
