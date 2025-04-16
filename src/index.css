@@ -1,50 +1,107 @@
 @import "tailwindcss";
 
+/* Base styles */
 html, body {
   margin: 0;
   padding: 0;
   font-family: "Space Grotesk", sans-serif;
-  background: #0a0a0a;
-  color: #f3f4f6;  
+  background: #10131a;
+  color: #e5e7eb;
+  scroll-behavior: smooth;
+  min-height: 100%;
 }
 
-@layer utilities {
-  @keyframes blink {
-    0%, 
-    100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0;
-    }
-  }
-
-  .animate-blink {
-    animation: blink 0.8s step-end infinite;
-  }
-
-
-  @keyframes loading {
-    0% {
-      transform: translateX(-100%);
-    }
-    100% {
-      transform: translateX(250%);
-    }
-  }
-
-  .animate-loading-bar {
-    animation: loading 0.8s ease infinite;
-  }
+/* Selection color for premium feel */
+::selection {
+  background: #2563eb;
+  color: #fff;
 }
 
+/* Custom scrollbar for modern look */
+::-webkit-scrollbar {
+  width: 8px;
+  background: #181c23;
+}
+::-webkit-scrollbar-thumb {
+  background: #2563eb;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6;
+}
+
+/* Focus ring for accessibility */
+:focus-visible {
+  outline: 2px solid #38bdf8;
+  outline-offset: 2px;
+  transition: outline-color 0.2s;
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(17, 24, 39, 0.6);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border-radius: 1rem;
+  border: 1px solid rgba(59, 130, 246, 0.15);
+}
+
+/* Drop shadow utility for glowing elements */
+.drop-shadow-glow {
+  filter: drop-shadow(0 0 6px #38bdf8);
+}
+
+/* Reveal animation improvements */
 .reveal {
   opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.7s ease, transform 0.7s ease;
+  transform: translateY(32px) scale(0.98);
+  transition: opacity 0.8s cubic-bezier(.4,0,.2,1), transform 0.8s cubic-bezier(.4,0,.2,1);
 }
-
 .reveal.visible {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateY(0) scale(1);
+}
+
+/* Blinking cursor for typing effect */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.animate-blink {
+  animation: blink 0.8s step-end infinite;
+}
+
+/* Loading bar animation */
+@keyframes loading-bar-move {
+  0% { left: -40%; width: 40%; }
+  50% { left: 30%; width: 60%; }
+  100% { left: 100%; width: 40%; }
+}
+.animate-loading-bar {
+  animation: loading-bar-move 1.2s cubic-bezier(.4,0,.2,1) infinite;
+}
+
+/* Responsive tweaks for section padding */
+@media (max-width: 640px) {
+  section,
+  header {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Remove tap highlight on mobile for a cleaner look */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Prevent blue highlight on buttons/links in mobile Safari */
+a, button {
+  -webkit-touch-callout: none;
+}
+
+/* Custom selection color for code blocks (if any) */
+code::selection, pre::selection {
+  background: #0ea5e9;
+  color: #fff;
 }

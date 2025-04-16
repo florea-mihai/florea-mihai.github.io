@@ -1,0 +1,55 @@
+/* App-wide custom styles and overrides */
+
+/* Fade-in animation for page transitions */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+.animate-fade-in {
+  animation: fade-in 0.8s cubic-bezier(.4,0,.2,1) both;
+}
+
+/* Utility for animation delays */
+.animate-fade-in.delay-150 { animation-delay: 0.15s; }
+.animate-fade-in.delay-200 { animation-delay: 0.2s; }
+.animate-fade-in.delay-300 { animation-delay: 0.3s; }
+.animate-fade-in.delay-400 { animation-delay: 0.4s; }
+.animate-fade-in.delay-700 { animation-delay: 0.7s; }
+
+/* Error message styling for forms */
+.error-message {
+  font-size: 0.95em;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+/* Responsive tweaks for section padding */
+@media (max-width: 640px) {
+  section,
+  header {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Remove tap highlight on mobile for a cleaner look */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Prevent blue highlight on buttons/links in mobile Safari */
+a, button {
+  -webkit-touch-callout: none;
+}
+
+/* Custom selection color for code blocks (if any) */
+code::selection, pre::selection {
+  background: #0ea5e9;
+  color: #fff;
+}

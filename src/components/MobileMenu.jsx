@@ -1,11 +1,17 @@
 import { useEffect, useRef } from "react";
 
-export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
+export const MobileMenu = ({ menuOpen, setMenuOpen, navLinks, active }) => {
   const menuRef = useRef();
 
-  // Close menu on outside click
+  // Close menu on outside click, but ignore the toggle button
   useEffect(() => {
     const handleClickOutside = (event) => {
+      // If the toggle button was clicked, do nothing
+      if (
+        event.target.closest('[aria-label="Toggle navigation menu"]')
+      ) {
+        return;
+      }
       if (menuRef.current && !menuRef.current.contains(event.target)) {
         setMenuOpen(false);
       }
@@ -28,13 +34,6 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
     };
   }, [menuOpen]);
 
-  const navLinks = [
-    { href: "#home", label: "Home" },
-    { href: "#about", label: "About" },
-    { href: "#projects", label: "Projects" },
-    { href: "#contact", label: "Contact" },
-  ];
-
   return (
     <div
       ref={menuRef}
@@ -46,27 +45,22 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
             }`}
       aria-hidden={!menuOpen}
     >
-      {/* Close Button */}
-      <button
-        onClick={() => setMenuOpen(false)}
-        className="absolute top-6 right-6 text-white text-3xl focus:outline-none cursor-pointer"
-        aria-label="Close Menu"
-      >
-        &times;
-      </button>
-
       {/* Navigation Links */}
       {navLinks.map((link, index) => (
         <a
           key={link.href}
           href={link.href}
           onClick={() => setMenuOpen(false)}
-          className={`text-2xl font-semibold text-white my-4 transform transition-transform duration-300 delay-${
+          className={`text-2xl font-semibold my-4 transition-transform duration-300 delay-${
             index * 100
           } ${
             menuOpen
               ? "opacity-100 translate-y-0"
               : "opacity-0 translate-y-5"
+          } ${
+            active === link.href
+              ? "text-blue-400"
+              : "text-white hover:text-blue-400"
           }`}
           aria-label={`Navigate to ${link.label} section`}
         >
