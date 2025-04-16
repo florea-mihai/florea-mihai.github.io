@@ -79,9 +79,6 @@ export const Contact = () => {
       />
       <RevealOnScroll>
         <div className="w-full max-w-full sm:max-w-md md:max-w-lg mx-auto bg-white/10 rounded-2xl shadow-xl p-2 sm:p-6 md:p-8 border border-blue-400/10 relative z-10 text-center">
-          <p className="uppercase tracking-widest text-xs text-blue-400 mb-3 animate-fade-in">
-            Contact
-          </p>
           <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent leading-tight animate-fade-in">
             Get In Touch
           </h2>
