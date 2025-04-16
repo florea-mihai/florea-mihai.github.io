@@ -204,7 +204,7 @@ export const Contact = () => {
           {/* Social/contact links */}
           <div className="mt-8 flex flex-col items-center gap-2 animate-fade-in delay-400">
             <span className="text-xs text-gray-400">Or reach me at:</span>
-            <div className="flex gap-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 justify-center items-center w-full">
               <a
                 href="mailto:temporary@placeholder.com"
                 className="text-blue-400 hover:text-cyan-300 transition-colors font-medium flex items-center gap-1"
