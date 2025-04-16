@@ -78,7 +78,7 @@ export const Contact = () => {
         }}
       />
       <RevealOnScroll>
-        <div className="w-full max-w-lg sm:max-w-md mx-auto bg-white/10 rounded-2xl shadow-xl p-4 sm:p-8 border border-blue-400/10 relative z-10 text-center">
+        <div className="w-full max-w-full sm:max-w-md md:max-w-lg mx-auto bg-white/10 rounded-2xl shadow-xl p-2 sm:p-6 md:p-8 border border-blue-400/10 relative z-10 text-center">
           <p className="uppercase tracking-widest text-xs text-blue-400 mb-3 animate-fade-in">
             Contact
           </p>
