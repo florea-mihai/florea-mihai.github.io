@@ -47,7 +47,7 @@ If you spot something off or have a suggestion, feel free to open an issue or dr
 
 If you’d like to connect, collaborate, or just say hi:
 
-- **Email**: `contact.florea@proton.me`  
+- **Email**: [contact.florea@proton.me](mailto:contact.florea@proton.me)  
 - **LinkedIn**: [linkedin.com/in/mihai-alexandru-florea](https://linkedin.com/in/mihai-alexandru-florea)
 
 ---
