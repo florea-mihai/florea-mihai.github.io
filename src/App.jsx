@@ -45,7 +45,7 @@ function App() {
             </div>
             <div className="flex gap-4 justify-center">
               <a
-                href="mailto:temporary@placeholder.com"
+                href="mailto:contact.florea@proton.me"
                 className="hover:text-blue-400 transition-colors"
                 aria-label="Email Mihai"
               >

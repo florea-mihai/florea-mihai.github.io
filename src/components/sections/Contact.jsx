@@ -223,12 +223,12 @@ export const Contact = () => {
             <span className="text-xs text-gray-400">Or reach me at:</span>
             <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 justify-center items-center w-full">
               <a
-                href="mailto:temporary@placeholder.com"
+                href="mailto:contact.florea@proton.me"
                 className="text-blue-400 hover:text-cyan-300 transition-colors font-medium flex items-center gap-1"
                 aria-label="Email Mihai"
               >
                 <svg width="18" height="18" fill="none" viewBox="0 0 24 24" className="inline-block"><path d="M2 6.5A2.5 2.5 0 0 1 4.5 4h15A2.5 2.5 0 0 1 22 6.5v11A2.5 2.5 0 0 1 19.5 20h-15A2.5 2.5 0 0 1 2 17.5v-11Zm2.25-.5 7.25 6.25L18.75 6M4 18l5.5-5m10.5 5-5.5-5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
-                temporary@placeholder.com
+                contact.florea@proton.me
               </a>
               <a
                 href="https://linkedin.com/in/mihai-alexandru-florea"
